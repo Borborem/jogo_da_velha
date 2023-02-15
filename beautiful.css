@@ -1,0 +1,46 @@
+body {
+	background-color: rgb(0,0,0);
+	
+}
+
+#gameTable {
+	fill:rgb(0,0,0);
+	stroke-width:5;
+	stroke:rgb(0,255,0)
+}
+
+.point{
+	stroke:rgb(255, 255, 0);
+	stroke-width:8;
+	/*fill:rgb(255, 255, 0, 20%);*/
+    
+	
+}
+
+#tableline2 {
+	stroke-width:8;
+	stroke:rgb(255, 0, 0)
+}
+
+#tableline {
+	stroke-width:8;
+	stroke:rgb(0, 0, 255)
+}
+
+.quadrante {
+    stroke-width:5;
+    stroke:rgb(0, 255, 0)
+}
+
+.unselectedClass {
+
+    color: rgb(0,0,0);
+    fill: rgb(0,0,0);
+
+}
+
+.point2 {
+	
+	stroke:rgb(255, 0, 0);
+	stroke-width:8;
+}
